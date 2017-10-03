@@ -1,9 +1,24 @@
-.ui.borderless.topmenu.menu{
+.ui.borderless.topmenu.menu {
   background-color: #f5f5f5;
   box-shadow: none;
   border: none;
 }
-.ui.borderless.mid.menu{
+
+.ui.borderless.mid.menu {
   box-shadow: none;
   border: none;
+}
+
+.black-background {
+  background-color: #292929;
+  color: whitesmoke;
+  height: 200px;
+}
+
+.colorblocktop {
+  padding-top: 20px;
+}
+
+.colorblockbottom {
+  padding-bottom: 20px;
 }
